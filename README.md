@@ -1,3 +1,3 @@
 # project based learning
 
-[![gitter]
+[![gitter](https://badges.gitter.im/practical-tutorials/community.svg)]
